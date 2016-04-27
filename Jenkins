@@ -22,6 +22,7 @@ service iptables restart
 
 accedo en el navegador a dirIP:8080
 luego me pedira que introduzca un poassword el cual lo averiguo haciendo cat a la dir que aparece en la pagina de jenkins.
+verificar que los scripts de cobertura y github se instalaran y dar instalar
 
 wget https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
